@@ -1,8 +1,10 @@
 ## A simple script for searching for unique values ​​in the fields of an object array.
 
 * mainArr - an array of objects with arbitrary fields:
--- id - arbitrary serial number of the object
--- fieldArr - object field with data that will be checked for uniqueness
+
+** id - arbitrary serial number of the object
+
+** fieldArr - object field with data that will be checked for uniqueness
 
 * uniqArr - an array where unique values ​​from fieldArr of all objects will be output
 
